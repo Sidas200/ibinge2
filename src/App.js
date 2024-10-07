@@ -5,7 +5,7 @@ import SearchBar from './components/SearchBar';
 import ShowList from './components/ShowList';
 
 function App() {
-  const [shows, setShows] = useState([]);
+  const [shows, setShows] = useState([]);Kf
 
   const handleSearch = async (query) => {
     try {
